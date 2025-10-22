@@ -3,3 +3,46 @@ p {
   text-align: center;
   background-color: rgb(135, 48, 90);
 }
+h2 {
+  width: 50%;
+  color: rgb(11, 5, 15);
+  background-color: rgb(184, 78, 177);
+}
+/*<!-common for both boxes is stored in div----- >*/
+
+div {
+  width: 25%;
+  height: 25%;
+  font-size: xx-large;
+}
+
+#box1 {
+  background-color: rgb(224, 214, 214);
+  color: blue;
+}
+
+#box2 {
+  background-color: rgb(119, 30, 30);
+  color: rgb(4, 4, 32);
+  font-family: Arial, sans-serif;
+}
+
+body {
+  justify-items: center;
+  display: flex;
+  align-content: center;
+}
+
+/* 
+<!--boilerplate code for css----- >
+
+head,
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+* {
+  margin: 100%;
+  padding: 100%;
+} */
