@@ -42,9 +42,11 @@ A stack of **rotated image cards** with hover interactions:
 
 ## 📁 Project Structure
 
+```markdown
 📂 mini-games/
-├── index.html # Shape Game
-├── style.css # Shape Game styling
-├── cards.html # Card Stack Game
-├── style2.css # Card Stack styling
+├── index.html # Shape Game  
+├── style.css # Shape Game styling  
+├── cards.html # Card Stack Game  
+├── style2.css # Card Stack styling  
 └── README.md
+```
