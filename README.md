@@ -7,8 +7,6 @@ This repository features mini-games created using HTML and CSS. Currently, it co
    - Rotated square/diamond with upright text
    - Circle changes color on hover
 
-Other two games will be added soon!
-
 ## How to Run
 
 1. Clone or download the repository.
